@@ -1,0 +1,7 @@
+D:\Code\C#\TestKST\TestKST\bin\Debug\TestKST.pdb
+D:\Code\C#\TestKST\TestKST\obj\Debug\TestKST.csproj.CoreCompileInputs.cache
+D:\Code\C#\TestKST\TestKST\obj\Debug\TestKST.pdb
+D:\Code\C#\TestKST\TestKST\obj\Debug\TestKST.csprojAssemblyReference.cache
+D:\Code\C#\TestKST\TestKST\bin\Debug\TestKST.exe.config
+D:\Code\C#\TestKST\TestKST\bin\Debug\TestKST.exe
+D:\Code\C#\TestKST\TestKST\obj\Debug\TestKST.exe

@@ -1,0 +1,17 @@
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\UnitTest.TestKST.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\UnitTest.TestKST.pdb
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\TestKST.exe
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\TestKST.pdb
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\TestKST.exe.config
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code\C#\TestKST\UnitTest.TestKST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code\C#\TestKST\UnitTest.TestKST\obj\Debug\UnitTest.TestKST.csprojAssemblyReference.cache
+D:\Code\C#\TestKST\UnitTest.TestKST\obj\Debug\UnitTest.TestKST.csproj.CoreCompileInputs.cache
+D:\Code\C#\TestKST\UnitTest.TestKST\obj\Debug\UnitTest.TestKST.csproj.CopyComplete
+D:\Code\C#\TestKST\UnitTest.TestKST\obj\Debug\UnitTest.TestKST.dll
+D:\Code\C#\TestKST\UnitTest.TestKST\obj\Debug\UnitTest.TestKST.pdb
